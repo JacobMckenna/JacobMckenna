@@ -1,5 +1,8 @@
 # Hello there... ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jacob-mckenna-108256260/))
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:jacob.mck03@gmail.com)
+
 My name is **Jacob McKenna**, and I am a 4th-year Computer Science student at the University of Guelph. I’m passionate about software and game development and eager to bring more of my creative ideas to life.
 
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacobMckenna&show_icons=true&theme=radical)
@@ -18,14 +21,6 @@ My name is **Jacob McKenna**, and I am a 4th-year Computer Science student at th
 - 🐍 **Python**: My go-to language for most personal projects.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobMckenna&layout=compact&theme=radical)
-
-## 🤝 Contacts
-
-Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jacob-mckenna-108256260/))
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:jacob.mck03@gmail.com)
-
 
 <!--
 **JacobMckenna/JacobMckenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
