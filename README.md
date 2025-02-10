@@ -1,4 +1,4 @@
-# Hello there... ![](https://komarev.com/ghpvc/?username=JacobMckenna&color=blue)
+# 👋 Hello there... ![](https://komarev.com/ghpvc/?username=JacobMckenna&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jacob-mckenna-108256260/))
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:jacob.mck03@gmail.com)
