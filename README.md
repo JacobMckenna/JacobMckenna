@@ -10,7 +10,7 @@ My name is **Jacob McKenna**, and I am a 4th-year Computer Science student at th
 ## 🛠 Projects
 
 - **[GeoJob Search](https://github.com/username/GeoJob-Search)**: Full-stack job search application with geolocation features, built using Python, React, Java, and MySQL.
-- **[Portfolio Website](https://github.com/username/portfolio-website)**: Personal portfolio website showcasing my skills and projects, developed using React and Firebase.
+- **[Portfolio Website](https://github.com/username/mywebsite)**: Personal portfolio website showcasing my skills and projects, developed using React and Firebase.
 - **[Molecule Visualizer](https://github.com/username/Molecule-Display)**: Interactive 2D molecule visualization tool built with Python, C, HTML, and SQLite.
 
 ## 💻 Languages and Tools I Use:
