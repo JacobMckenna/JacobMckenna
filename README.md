@@ -1,12 +1,12 @@
 # 👋 Hello there... ![](https://komarev.com/ghpvc/?username=JacobMckenna&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jacob-mckenna-108256260/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:jacob.mck03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:jrjmckenna@outlook.com)
 
 My name is **Jacob McKenna**, and I am a 4th-year Computer Science student at the University of Guelph. I’m passionate about software and game development and eager to bring more of my creative ideas to life.
-
+<!---
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacobMckenna&show_icons=true&theme=radical)
-
+-->
 ## 🛠 Projects
 
 - **[GeoJob Search](https://github.com/JacobMckenna/GeoJob-Search)**: Full-stack job search application with geolocation features, built using Python, React, Java, and MySQL.
